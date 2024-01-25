@@ -11,3 +11,7 @@
 
 4. [Scala(스칼라): EP4 - 여러가지 Scala Function에 대해 알아보자](https://youtu.be/le6GiBBaK4k)
     - [File](./playground1/src/main/scala/lecture/Function.scala)
+
+
+5. [Scala(스칼라): EP5 - Iteration vs. Recursion(ft. Tail Recursion)](https://youtu.be/Nw_M0w_ST3g)
+    - [Note](./Note/Scala_EP5_스칼라_Iteration_vs_Recursion.md)
