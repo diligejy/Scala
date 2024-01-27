@@ -15,3 +15,6 @@
 
 5. [Scala(스칼라): EP5 - Iteration vs. Recursion(ft. Tail Recursion)](https://youtu.be/Nw_M0w_ST3g)
     - [Note](./Note/Scala_EP5_스칼라_Iteration_vs_Recursion.md)
+
+6. [Scala(스칼라): EP6 - Calling Function with Arguments(ft. Lazy evaluation)](https://youtu.be/TPgziESFU4Q)
+    - [Note](./Note/Scala_EP6_스칼라_Calling_Function_with_Arguments.md)
